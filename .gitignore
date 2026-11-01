@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.wix/
+*.local
+
+# Debug captures (contain session tokens)
+*.har
